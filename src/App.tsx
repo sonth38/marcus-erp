@@ -1,7 +1,7 @@
 function App() {
   return (
     <main className="flex min-h-screen items-center justify-center bg-slate-100">
-      <h1 className="text-3xl font-bold text-blue-700">SynerERP</h1>
+      <h1 className="text-3xl font-bold text-blue-700">marcusERP</h1>
     </main>
   )
 }
